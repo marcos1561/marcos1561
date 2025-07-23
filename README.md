@@ -1,5 +1,5 @@
 ## Hi there 👋
-* I'm a Physics undergraduate student at Federal University of Rio Grande do Sul.
+* I hold a degree in Physics from the Universidade Federal do Rio Grande do Sul.
 * My main interests are in computational physics highly oriented towards scientific computing, but I also love almost all topics related to software engineering.
 
 <div align="center">
