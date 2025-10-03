@@ -7,7 +7,7 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <h2>Projects I'm most proud of</h2>
-        <a href="https://marcos1561.github.io/mavi/">
+        <a href="https://marcos1561.github.io/mavi/](https://github.com/marcos1561/Mavi.jl">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcos1561&repo=mavi" alt="Mavi Description">
         </a>
         <a href="https://marcos1561.github.io/phystem/">
